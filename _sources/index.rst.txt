@@ -18,3 +18,9 @@ Occasionally I might also add content mildly relevant to the general engineering
   :width: 400
   :alt: Alternative text
   :align: center
+  
+.. toctree::
+   :maxdepth: 1
+   :caption: Table of Contents
+
+   literary_articles/index.rst
