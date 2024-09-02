@@ -8,4 +8,7 @@ The following are some of the articles I penned during that time.
    :maxdepth: 1
 
    the_odd_mind_out.rst
+   that_good_night.rst
+   disruption_tube.rst
+   debating_the_doctrine.rst
 
