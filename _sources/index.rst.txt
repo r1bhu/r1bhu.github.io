@@ -14,13 +14,17 @@ This is where I intend to dump
 
 Occasionally I might also add content mildly relevant to the general engineering community.
 
-.. image:: images/goose.jpg
-  :width: 400
-  :alt: Alternative text
-  :align: center
+.. include:: about.rst
+
+
   
+Contents
+--------
+
 .. toctree::
    :maxdepth: 1
-   :caption: Table of Contents
 
    literary_articles/index.rst
+   technical_writeups/index.rst
+   rabbitholes/index.rst
+   musings/index.rst
